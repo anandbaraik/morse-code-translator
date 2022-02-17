@@ -17,4 +17,4 @@ Visit below link for demo 👇
 
 ## Tech Stack
 
-**Client:** React, JSX, CSS, HTML
+**Client:** JAVASCRIPT, CSS, HTML
